@@ -1,0 +1,1 @@
+nombre='ruth', movil='647', email='ruth@gmail.com', ciudad='Málaga', nacimiento=1990-08-10
